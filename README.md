@@ -1,1 +1,1 @@
-# SC_302_Documentacion_MN_AmehedSG
+esta es mi primera practica con github
